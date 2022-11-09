@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshkumuar
-- 👀 I’m interested in ... learning new ways in ML
-- 🌱 I’m currently learning ...EnsembleLearning
+- 👀 I’m interested in ... learning new ways of ML & AI
+- 🌱 I’m currently learning ...Computer Vision & NLP  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by email or by Contact Number
 
